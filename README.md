@@ -8,4 +8,4 @@ This repository is created to collect the assignment solutions for the subject S
 2. MUSIIMENTA JOACHIM 2021/BSE/084/PS
 3. BAGUMA MUSHIN KARIM 2021/BSE/033/PS
 4. MURIISA JOHN 2021/BSE/081/PS
-5. 
+5. AGUMENAITWE SIMPLICIOUS 2021/BSE/186/PS
