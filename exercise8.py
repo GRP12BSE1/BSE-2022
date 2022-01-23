@@ -1,0 +1,6 @@
+C = float(input("Initial amount: "))
+r = float(input("Yearly rate of interest: "))
+t = float(input("Number of years: "))
+n = float(input("NUmber of compounded times: "))
+P = C*(1+(r/n))**(t*n)
+print("P= " + str(P))
